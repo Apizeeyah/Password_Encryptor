@@ -36,5 +36,5 @@ Proses pengenkripsian ini dibagi pada berbagai tahap diantaranya adalah Key Gene
 **Kelompok BP-05**
 - **Raihan Muhammad Ihsan** - _2206028232_ - [patuyyy](https://github.com/patuyyy/)
 - **Tjokorde Gde Agung Abel Putra** - _2206059736_ - [Pathricc1234](https://github.com/Pathricc1234/)
-- **Hafizyah Rayhan Zulikhram** - _2206029185_ - [HafizyahRayhan](https://github.com/Apizeeyah/)
+- **Hafizyah Rayhan Zulikhram** - _2206029185_ - [Apizeeyah](https://github.com/Apizeeyah/)
 - **Andrew Kristofer Jian** - _2206059673_ - [andrewkristofer](https://github.com/andrewkristofer/)
